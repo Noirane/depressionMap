@@ -1,0 +1,11 @@
+branca==0.7.2
+folium==0.17.0
+joblib==1.4.2
+matplotlib==3.9.2
+pandas==2.2.3
+plotly==5.22.0
+Requests==2.32.3
+streamlit==1.39.0
+~treamlit==1.35.0
+~treamlit==1.38.0
+~treamlit==1.39.0
