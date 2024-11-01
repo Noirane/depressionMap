@@ -1,0 +1,10 @@
+{
+  "features": ["Q17A", "Q34A", "Q38A", "Q10A", "Q21A", "Q16A", "Q37A", "Q5A", "Q13A", "Q26A", "Q24A", "Q31A", "Q42A", "Q3A", "Education", "Age", "Country", "Marital status", "Gender"],
+  "mean_abs_shap_values": [3.539149443826889, 3.5045287970129007, 3.4825908042242975, 3.4770408521595635, 3.4589721231424844, 3.442543635617294, 3.3416311280905777, 3.293479964667717, 3.225051539070747, 3.1936251749133073, 3.1008000058291723, 3.0545514036591594, 3.05159543775406, 2.9305822007384297, 0.04381342472431062, 0.021280554827865734, 0.014326213096400005, 0.011887717382344709, 0.010305069375704736],
+  "color": "skyblue",
+  "figsize": [12, 8],
+  "xlabel": "Mean Absolute SHAP Value",
+  "ylabel": "Variables",
+  "title": "Variable Importance Based on SHAP Values",
+  "save_path": "/content/drive/My Drive/ComparativoAMDepressao/shap_importance_plot.png"
+}
