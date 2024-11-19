@@ -1,6 +1,6 @@
 INFORMAÇÕES SOBRE O DEPRESSIONMAP 
 
-Link para o dashboard: https://XXXXXXX (ocultado, pois o streamlit disponibiliza informações sobre o repositório pessoal)
+Link para o dashboard: https://XXXXX (ocultado, pois o streamlit disponibiliza informações sobre o repositório pessoal)
 
 Apresenta duas páginas: Home, com informações sociodemográficas e sua relação com a depressão e a página com as métricas sobre Inteligência Artificial (com informações sobre o desempenho dos algoritmos na previsão dos indicadores de depressão).
 
